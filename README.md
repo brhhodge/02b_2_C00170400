@@ -11,4 +11,4 @@ Programming Assignment:
 3. In the main method, prompt for and receive from the user the number of feet to convert to meters. Then,
   call the method described above passing the number of feet the user entered. Output the return from the
   method of to the terminal with appropriate labels.
-/
+
